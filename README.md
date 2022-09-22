@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Tournament Lotting -- https://github.com/pranavpv773/tournament_lotting.git**
 
-- 🌱 I’m currently learning **FLutter**
+- 🌱 I’m currently working as a **FLutter** developer
 
 - 💬 Ask me about **Flutter,Dart,HTML,CSS,Git,Bootstrap,Figma**
 
