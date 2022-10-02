@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavpv773" alt="pranavpv773" /></a> </p>
 
-- 🔭 I’m currently working on **Tournament Lotting -- https://github.com/pranavpv773/tournament_lotting.git**
+- 🔭 I’m currently working on **Menzclub Ecommerce app -- https://github.com/pranavpv773/menzcart.git**
 
 - 🌱 I’m currently working as a **FLutter** developer
 
