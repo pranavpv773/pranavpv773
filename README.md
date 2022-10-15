@@ -7,8 +7,7 @@
 
 - 🔭 I’m currently working on **Menzclub Ecommerce app -- https://github.com/pranavpv773/menzcart.git**
 
-- 🌱 I’m currently working as a **FLutter** developer
-
+- 🌱 I’m currently working as a **FLUTTER** DEVELOPER
 - 💬 Ask me about **Flutter,Dart,HTML,CSS,Git,Bootstrap,Figma**
 
 - 📫 How to reach me **pranavpv257@gmail.com**
