@@ -10,7 +10,7 @@
 - 🌱 I’m currently working as a **FLUTTER** DEVELOPER
 - 💬 Ask me about **Flutter,Dart,HTML,CSS,Git,Bootstrap,Figma**
 
-- 📫 How to reach me **pranavpv257@gmail.com**
+- 📫 How to reach me **https://pranavpv773.github.io/pranav-s/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
