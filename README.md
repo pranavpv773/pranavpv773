@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm PRANAV PV</h1>
 <h3 align="center">A passionate Flutter Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavpv773&label=Profile%20views&color=0e75b6&style=flat" alt="pranavpv773" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=pranavpv773&label=Profile%20views&color=0e75b6&style=flat](https://camo.githubusercontent.com/1e1476c0305a9525fdf619a222a9085ef359c303e023c25584356542ab557e92/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4d7573687468616b5650267374796c653d666c6174)" alt="pranavpv773" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavpv773" alt="pranavpv773" /></a> </p>
 
