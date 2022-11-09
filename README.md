@@ -1,7 +1,8 @@
 
   <p align="left"> <img src="https://user-images.githubusercontent.com/91565180/200851311-35246972-5cd6-45d9-8bd1-6c2046d480e4.gif" alt="pranavpv773" /> </p>
-  //
-  //
+  
+  
+  
 <h1 align="center">Hi 👋, I'm PRANAV PV
 
 </h1>
