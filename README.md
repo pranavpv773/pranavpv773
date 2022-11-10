@@ -33,4 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavpv773&show_icons=true&locale=en" alt="pranavpv773" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavpv773&" alt="pranavpv773" /></p>
-[![](https://visitcount.itsvg.in/api?id=jishnup57&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=jishnup57&icon=0&color=0)](https://visitcount.itsvg.in) -->
