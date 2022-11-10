@@ -9,7 +9,7 @@
 <h3>A passionate Flutter Developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavpv773&row=3&column=3" alt="pranavpv773" /></a> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavpv773" alt="pranavpv773" /></a> </p>
+<!-- // <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavpv773" alt="pranavpv773" /></a> </p>// -->
 
 - 🔭 I’m currently working on **Menzclub Ecommerce application -- https://github.com/pranavpv773/menzcart.git**
 
