@@ -1,4 +1,4 @@
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavpv773&label=Profile%20views&color=0e75b6&style=flat" alt="pranavpv773" /> </p>
   <p align="left"> <img src="https://user-images.githubusercontent.com/91565180/200851311-35246972-5cd6-45d9-8bd1-6c2046d480e4.gif" alt="pranavpv773" /> </p>
   
   
