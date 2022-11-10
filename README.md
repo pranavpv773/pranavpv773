@@ -6,7 +6,7 @@
 <h1>Hi 👋, I'm PRANAV PV
 
 </h1>
-<h3 align="center">A passionate Flutter Developer from India</h3>
+<h3>A passionate Flutter Developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavpv773" alt="pranavpv773" /></a> </p>
 
