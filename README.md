@@ -11,9 +11,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavpv773&row=3&column=3" alt="pranavpv773" /></a> </p>
 <!-- // <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavpv773" alt="pranavpv773" /></a> </p>// -->
 
-- 🔭 I’m currently working on **Adam Technologies**
+- 🔭 I’m currently working on **Bestway Infotech PVT LTD.**
 
-- 🌱 I’m currently working as a **FLUTTER** DEVELOPER
+- 🌱 I’m currently working as a **LEAD FLUTTER** DEVELOPER
 - 💬 Ask me about **Flutter,Dart,HTML,CSS,Git,Bootstrap,Figma**
 
 - 📫 How to reach me **https://pranavpv773.github.io/pranav-s/**
