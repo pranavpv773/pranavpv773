@@ -16,7 +16,7 @@
 - 🌱 I’m currently working as a **LEAD FLUTTER** DEVELOPER
 - 💬 Ask me about **Flutter,Dart,HTML,CSS,Git,Bootstrap,Figma**
 
-- 📫 How to reach me **https://pranavpv773.github.io/pranav-s/**
+- 📫 How to reach me **https://pranav-pv.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
