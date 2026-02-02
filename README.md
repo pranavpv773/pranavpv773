@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Bestway Infotech PVT LTD.**
 
-- 🌱 I’m currently working as a **LEAD FLUTTER** DEVELOPER
+- 🌱 I’m currently working as a **SENIOR FLUTTER** DEVELOPER
 - 💬 Ask me about **Flutter,Dart,HTML,CSS,Git,Bootstrap,Figma**
 
 - 📫 How to reach me **https://pranav-pv.vercel.app/**
